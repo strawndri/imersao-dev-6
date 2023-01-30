@@ -1,8 +1,11 @@
 body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     font-family: "Roboto Mono", monospace;
     text-align: center;
-    background-image: url("https://caelum-online-public.s3.amazonaws.com/assets-imersaodev/Background.png");
-    background-color: #000000;
+    background-color: #101828;
     background-size: cover;
     background-position: center top;
     background-repeat: no-repeat;
@@ -15,7 +18,7 @@ body {
 }
 
 .page-title {
-    color: #ffffff;
+    color: #ec3f9e;
     margin: 0 0 5px;
 }
 
@@ -41,4 +44,32 @@ body > img {
 
 img {
     max-height: 250px;
+    margin-bottom: 10px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+label {
+    font-size: 16px;
+    color: #f9f9f9;
+}
+
+input {
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+.button {
+    background-color: #ec3f9e;
+    transition: .5s all;
+}
+
+.button:hover {
+    cursor: pointer;
+    scale: calc(1.05);
 }
