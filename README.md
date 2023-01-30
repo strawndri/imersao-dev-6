@@ -28,10 +28,10 @@ Na primeira aula, iniciamos os estudos de programação conhecendo um pouco mais
 - Como determinar o número de casas decimais com `toFixed()`.
 
 ### Desafios
-- [1º Desafio](): Adicionar outras moedas para converter;
-- [2º Desafio](): Conversor de quilômetros para anos luz e verificar o tempo que demora para ir de uma estrela para outra;
-- [3º Desafio](): Conversor de temperaturas entre fahrenheit, kelvin e celsius;
-- [4º Desafio](): Adicionar uma linha ao projeto desenvolvido para que apareça o valor em bitcoin.
+- 🪙 [1º Desafio](https://github.com/strawndri/imersao-dev-6/tree/aula-1/desafio-1): Adicionar outras moedas para converter;
+- 🛸 [2º Desafio](https://github.com/strawndri/imersao-dev-6/tree/aula-1/desafio-2): Conversor de quilômetros para anos luz e verificar o tempo que demora para ir de uma estrela para outra;
+- 🌡️ [3º Desafio](https://github.com/strawndri/imersao-dev-6/tree/aula-1/desafio-3): Conversor de temperaturas entre fahrenheit, kelvin e celsius;
+- 💰 [4º Desafio](https://github.com/strawndri/imersao-dev-6/tree/aula-1/desafio-4): Adicionar uma linha ao projeto desenvolvido para que apareça o valor em bitcoin.
 
 ### Materiais complementares
 - [JavaScript segundo a documentação](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
