@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    background-image: url("https://i.imgur.com/kSdYTM0.jpg");
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+.page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+}
+
+.page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+}
+
+.page-logo {
+    width: 200px;
+}
+
+.alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+body > img {
+    margin: 0 10px;
+}
+
+img {
+    max-height: 350px;
+}
+
+.cerebro {
+    width: 100px;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: 0 auto;
+    gap: 10px;
+}
+
+.box label {
+    color: #f9f9f9;
+}
+
+.box input {
+    font-size: 16px;
+}
+
+.box input, .box__buttons button {
+    border-radius: 5px;
+    padding: 5px;
+    font-family: 'Quicksand', sans-serif;
+    border: none;
+}
+
+.box__buttons button {
+    width: 40%;
+    background-color: rgba(27, 13, 46, 0.6);
+    color: #f9f9f9;
+    transition: .5s all;
+    margin-right: 10px;
+}
+
+.box__buttons button:hover {
+    scale: calc(1.08);
+    background-color: rgba(27, 13, 46, 0.8);
+}
+
+#resultado {
+    background-color: rgba(27, 13, 46, 0.6);
+    padding: 5px;
+    border-radius: 5px;
+    margin: 10px auto;
+    max-width: 300px;
+}
+#resultado p{
+    color: #f9f9f9;
+    font-weight: 600;
+}
