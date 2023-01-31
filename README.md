@@ -1,57 +1,38 @@
-<h1 align="center"> 🤿 Imersão Dev 6 🤿 </h1>
+<h1 align="center"> 🤿 Alura - Imersão Dev 6 🤿 </h1>
 
-<p align="center">
-  <img src="https://i.imgur.com/Yf5lXbz.png" alt=''/>
-</p>
+<h2>Aula 02 - Mentalista</h2>
 
-<p align="center">
-    <img src='https://img.shields.io/badge/License-MIT-f2a2b7?style=for-the-badge&logo=appveyor' alt='Badge. Retângulo dividido em duas partes: no lado esquerdo, o retângulo possui a cor cinza, um círculo azul com vazados e o texto "LICENSE"; no lado direito, o retângulo é cor-de-rosa e contém o texto "MIT".'>
-    <img src='https://img.shields.io/badge/Status-Em progresso-DBD375?style=for-the-badge&logo=appveyor' alt='Badge. Retângulo dividido em duas partes: no lado esquerdo, o retângulo possui a cor cinza, um círculo azul com vazados e o texto "STATUS"; no lado direito, o retângulo é amarelo e contém o texto "Em progresso".'>
-</p>
+### Sumário 
 
-### Tópicos 
-
-:small_blue_diamond: [Sobre a imersão](#sobre-a-imersão)
+:small_blue_diamond: [Descrição](#descrição)
 
 :small_blue_diamond: [Conhecimentos adquiridos](#conhecimentos-adquiridos)
 
-:small_blue_diamond: [Projetos desenvolvidos](#projetos-desenvolvidos)
+:small_blue_diamond: [Desafios](#desafios)
 
-:small_blue_diamond: [Como executar](#como-executar)
+:small_blue_diamond: [Materiais complementares](#materiais-complementares)
 
 :small_blue_diamond: [Tecnologias](#tecnologias)
 
 ---
-## Sobre a imersão 
+### Descrição
+Na primeira aula, iniciamos os estudos de programação conhecendo um pouco mais sobre esse universo, bem como sobre HTML, CSS e Javascript.
+
+<img src='https://i.imgur.com/AolXp2O.png' alt='Início da transcrição. Recorte de captura de tela de um projeto do CodePen. Tela com plano de fundo azul escuro. Na parte superior e central, há um título em negrito e com coloração branca com o texto "Mentalista". Abaixo desse título, há o um subtítulo com o texto "imersão dev", em que a palavra "dev" possui um fundo vermelho e é precedido pelo símbolo de underline. Na parcela superior direita, há o texto "alura". Na região central, há uma ilustração de um cérebro com pontos luminosos ao seu redor. Fim da transcrição.'>
+
+### Conhecimentos adquiridos
+- Uso do comando `prompt`;
+- Criação de condições com `if`, `else` e `else if`;
+- Utilização de `Math.random()` para gerar números "aleatórios";
+- Importância da indentação para uma melhor legibilidade do código.
+
+### Desafios
+- 🔢 1º Desafio: Adicionar um número de tentativas para a pessoa tentar acertar e imprimir a resposta no final;
+- 💬 2º Desafio: Quando a pessoa errar, deixe na mensagem se o número chutado é maior ou menor que o número secreto;
+- 🤔 3º Desafio: Pesquisar e aprender a diferença entre == e ===.
 
 
-## Conhecimentos adquiridos
-
-
-## Projetos desenvolvidos
-
-
-## Como executar
-
-1. Clonar o repositório:
-```
-git clone https://github.com/strawndri/imersao-dev-6.git
-```
-
-2. Localizar e acessar a pasta "imersao-dev-6";
-```
-cd imersao-dev-6
-```
-
-## Tecnologias
-- **Ferramentas**:
-  - 👩‍💻 [Codepen](https://codepen.io/).
-- **Linguagens**
-  - 🏗️ [HTML](https://www.w3schools.com/html/default.asp);
-  - 💅 [CSS](https://www.w3schools.com/css/default.asp);
-  - ⚙️ [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
-
-## Feito com carinho por:
-
-| [<img src="https://avatars.githubusercontent.com/u/62841828?v=4" width=115><br><sub>Andrieli Luci Gonçalves</sub>](https://github.com/strawndri) |
-| :---: |
+### Materiais complementares
+- [Strict equality (===)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality)
+- [Math.random() no MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
+- [Operadores com Javascript](https://www.alura.com.br/artigos/operadores-matematicos-em-javascript)
