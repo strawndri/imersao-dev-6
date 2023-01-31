@@ -30,6 +30,7 @@
 
 ## Projetos desenvolvidos
 - [Aula 01: Conversor de moedas](https://github.com/strawndri/imersao-dev-6/tree/aula-1)
+- [Aula 02: Mentalista](https://github.com/strawndri/imersao-dev-6/tree/aula-2)
 
 ## Como executar
 
