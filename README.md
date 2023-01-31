@@ -27,8 +27,8 @@ Na primeira aula, iniciamos os estudos de programação conhecendo um pouco mais
 - Importância da indentação para uma melhor legibilidade do código.
 
 ### Desafios
-- 🔢 1º Desafio: Adicionar um número de tentativas para a pessoa tentar acertar e imprimir a resposta no final;
-- 💬 2º Desafio: Quando a pessoa errar, deixe na mensagem se o número chutado é maior ou menor que o número secreto;
+- 🔢 [1º Desafio](https://codepen.io/strawndri/pen/MWBPEaq?editors=0010): Adicionar um número de tentativas para a pessoa tentar acertar e imprimir a resposta no final;
+- 💬 [2º Desafio](https://codepen.io/strawndri/pen/MWBPEaq?editors=0010): Quando a pessoa errar, deixe na mensagem se o número chutado é maior ou menor que o número secreto;
 - 🤔 3º Desafio: Pesquisar e aprender a diferença entre == e ===.
 
 
