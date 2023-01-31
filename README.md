@@ -16,7 +16,7 @@
 
 ---
 ### Descrição
-Na primeira aula, iniciamos os estudos de programação conhecendo um pouco mais sobre esse universo, bem como sobre HTML, CSS e Javascript.
+Na segunda aula, conhecemos um pouco mais sobre a linguagem de programação Javascript, tipos de dados e métodos nativos, como `Math.random()`.
 
 <img src='https://i.imgur.com/AolXp2O.png' alt='Início da transcrição. Recorte de captura de tela de um projeto do CodePen. Tela com plano de fundo azul escuro. Na parte superior e central, há um título em negrito e com coloração branca com o texto "Mentalista". Abaixo desse título, há o um subtítulo com o texto "imersão dev", em que a palavra "dev" possui um fundo vermelho e é precedido pelo símbolo de underline. Na parcela superior direita, há o texto "alura". Na região central, há uma ilustração de um cérebro com pontos luminosos ao seu redor. Fim da transcrição.'>
 
