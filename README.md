@@ -31,10 +31,10 @@ Na aula três, desenvolvemos uma página que apresenta filmes que gostamos. Este
 - O que é interação e como fazê-la.
 
 ### Desafios
-- 📚 1º Desafio: Escolher o seu tema preferido para adaptar ao nosso código, ou seja, ao invés de filmes pode ser uma lista de animes, HQ 's, cursos, capas de jogos, entre outros;
-- 🔁 2º Desafio: Tentar implementar outras versões da estrutura de repetição que fizemos com for, como por exemplo com foreach ou while;
-- 🚫 3º Desafio: Criar uma condição para não adicionar filmes repetidos, caso eles já tenham sido adicionados anteriormente;
-- 🖼️ 4º Desafio: Criar um campo e botão para adicionar a imagem pela tela, e não direto no código.
+- 📚 [1º Desafio](https://codepen.io/strawndri/pen/VwBVymE): Escolher o seu tema preferido para adaptar ao nosso código, ou seja, ao invés de filmes pode ser uma lista de animes, HQ 's, cursos, capas de jogos, entre outros;
+- 🔁 [2º Desafio](https://codepen.io/strawndri/pen/VwBVymE): Tentar implementar outras versões da estrutura de repetição que fizemos com for, como por exemplo com foreach ou while;
+- 🚫 [3º Desafio](https://codepen.io/strawndri/pen/VwBVymE): Criar uma condição para não adicionar filmes repetidos, caso eles já tenham sido adicionados anteriormente;
+- 🖼️ [4º Desafio](https://codepen.io/strawndri/pen/VwBVymE): Criar um campo e botão para adicionar a imagem pela tela, e não direto no código.
 
 
 ### Materiais complementares
