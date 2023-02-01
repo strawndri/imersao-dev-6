@@ -17,6 +17,8 @@
 ---
 ### Descrição
 
+Na aula três, desenvolvemos uma página que apresenta filmes que gostamos. Estes filmes foram adicionados e manipulados através do uso de listas, laços de repetição e um método que permite a adição de elementos na tela do navegador.
+
 <img src='https://i.imgur.com/NgPUwD0.png' alt='Início da transcrição. Recorte de captura de tela de um projeto do CodePen. Tela com plano de fundo azul escuro. Na parte superior e central, há um título em negrito e com coloração branca com o texto "AluraFlix". Abaixo desse título, há o um subtítulo com o texto "imersão dev", em que a palavra "dev" possui um fundo vermelho e é precedido pelo símbolo de underline. Na parcela superior direita, há o texto "alura". Na região central, há três pôsteres dos filmes "A viagem de Chihiro", "Child´s play" e "Nosferatu". Fim da transcrição'>
 
 ### Conhecimentos adquiridos
