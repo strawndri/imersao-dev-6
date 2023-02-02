@@ -1,14 +1,61 @@
-var nome = 'Andrieli';
+function convert() {
+    var coinsSelect = document.getElementById('coins')
+    var coinElement = coinsSelect.options[coinsSelect.selectedIndex].value
+    var valueElement = document.getElementById('value').value
+    
+    if (valueElement == '') {
+      alert('Não foi possível realizar a conversão. Insira um valor no campo de texto.')
+    } else {
+      showResult(coinElement, valueElement)
+    }
+}
 
-var valorAtual = 100;
-var cotacaoDoDolar = 5.13;
-var cotacaoDoPesoArgentino = 0.027;
-var cotacaoDoEuro = 5.57;
-var cotacaoBitcoin = 118342.83;
-
-alert('Olá, ' + nome + '!')
-alert('Vamos saber quanto fica o valor 100.00 de cada moeda em Real?')
-alert("Cotação do Dólar ($) em Real (R$): " + (valorAtual * cotacaoDoDolar).toFixed(2));
-alert("Cotação do Peso Argentino ($) em Real (R$): " + (valorAtual * cotacaoDoPesoArgentino).toFixed(2));
-alert("Cotação do Euro (€) em Real (R$): " + (valorAtual * cotacaoDoEuro).toFixed(2));
-alert("Cotação do Bitcoin (₿) em Real (R$): " + (valorAtual * cotacaoBitcoin).toFixed(2));
+function showResult(coin, value) {
+  var resultElement = document.querySelector('.result')
+  var prices = [
+    {
+      coin: 'dollar',
+      symbol: '$',
+      value: 5.13
+    },
+    {
+      coin: 'argentinianPeso',
+      symbol: '$',
+      value: 0.027
+    },
+    {
+      coin: 'euro',
+      symbol: '€',
+      value: 5.57
+    },
+    {
+      coin: 'bitcoin',
+      symbol: '₿',
+      value: 117802.51
+    }
+  ]
+  
+  var paragraphElement = document.createElement('p')
+  
+  switch(coin) {
+    case 'dollar':
+      var symbol = prices[0].symbol
+      var result = (prices[0].value * value).toFixed(2)
+      break 
+    case 'argentinianPeso':
+      var argentinianPeso = prices[1].symbol
+      var result = (prices[1].value * value).toFixed(2)
+      break 
+    case 'euro':
+      var symbol = prices[2].symbol
+      var result = (prices[2].value * value).toFixed(2)
+      break
+    case 'bitcoin':
+      var symbol = prices[3].symbol
+      var result = (prices[3].value * value).toFixed(2)
+      break 
+  }
+  
+  paragraphElement.innerText = symbol + value + ' equivale a ' + 'R$' + result
+  resultElement.appendChild(paragraphElement)
+}
