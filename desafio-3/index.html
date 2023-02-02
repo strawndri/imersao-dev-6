@@ -1,20 +1,45 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-    <head>
-        <title>Conversor de moedas | Imersão Dev 6</title>
-        <link rel="stylesheet" href="style.css">
-    </head>
-    <body>
-        <div class="container">
-            <h1 class="page-title">
-                Conversor de temperaturas
-            </h1>
-            <img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-aluraflix.svg" class="page-logo" alt="">
+<head>
+    <title>Conversor de moedas | Imersão Dev 6</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="page-title">
+            Conversor de temperaturas
+        </h1>
+        <img src="https://imersao.dev/assets/img/logo-imersao-dev6-desktop.1674580904.png" class="page-logo" alt="">
+    </div>
+    <a href="https://alura.com.br/" target="_blank">
+        <img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="" class="alura-logo">
+        <img src="https://i.imgur.com/FKeN2Fs.png">
+    </a>
+    <div class="box">
+        <div class="box__temperatures">
+            <label for="from">De:</label>
+            <select id="from">
+                <option value="celsius">Celsius (°C)</option>
+                <option value="fahrenheit">Fahrenheit(°F)</option>
+                <option value="kelvin">Kelvin (K)</option>
+            </select>
+            <label for="to">Para:</label>
+            <select id="to">
+                <option value="celsius">Celsius (°C)</option>
+                <option value="fahrenheit">Fahrenheit(°F)</option>
+                <option value="kelvin">Kelvin (K)</option>
+            </select>
         </div>
-        <a href="https://alura.com.br/" target="_blank">
-            <img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="" class="alura-logo">
-            <img src="termometro.png">
-        </a>
-        <script src="script.js"></script>
-    </body>
+        
+        <label for="value">
+            Valor a converter:
+        </label>
+        <input type="number" name="value" id="value">
+        <button onclick="convert()">Converter</button>
+    </div>
+    <div class="result">
+        
+    </div>
+    <script src="script.js"></script>
+</body>
 </html>
