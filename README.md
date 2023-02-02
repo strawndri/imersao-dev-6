@@ -28,9 +28,9 @@ Na quarta aula, demos continuidade ao desenvolvimento da AluraFlix, conhecendo u
 - O que são e como utilizar funções.
 
 ### Desafios
-- 🗑️ [1º Desafio]() Criar um botão para remover um filme na tela;
-- 🆕 [2º Desafio]() Além de colocar a imagem do filme, também adicionar o nome por meio de outro input;
-- 🔁 [3º Desafio]() Guardar todos os filmes adicionados em uma lista/array e percorrer essa lista toda vez que quiser imprimir ou remover o filme.
+- 🗑️ [1º Desafio](https://codepen.io/strawndri/pen/qByLpKY) Criar um botão para remover um filme na tela;
+- 🆕 [2º Desafio](https://codepen.io/strawndri/pen/qByLpKY) Além de colocar a imagem do filme, também adicionar o nome por meio de outro input;
+- 🔁 [3º Desafio](https://codepen.io/strawndri/pen/qByLpKY) Guardar todos os filmes adicionados em uma lista/array e percorrer essa lista toda vez que quiser imprimir ou remover o filme.
 
 ### Materiais complementares
 - [O que é Git e GitHub](https://youtu.be/nec3n02idMw)
