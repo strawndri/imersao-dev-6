@@ -1,57 +1,30 @@
-<h1 align="center"> 🤿 Imersão Dev 6 🤿 </h1>
+<h1 align="center"> 🤿 Alura - Imersão Dev 6 🤿 </h1>
 
-<p align="center">
-  <img src="https://i.imgur.com/Yf5lXbz.png" alt=''/>
-</p>
+<h2>Aula 04 - AluraFlix e Filmes Preferidos</h2>
 
-<p align="center">
-    <img src='https://img.shields.io/badge/License-MIT-f2a2b7?style=for-the-badge&logo=appveyor' alt='Badge. Retângulo dividido em duas partes: no lado esquerdo, o retângulo possui a cor cinza, um círculo azul com vazados e o texto "LICENSE"; no lado direito, o retângulo é cor-de-rosa e contém o texto "MIT".'>
-    <img src='https://img.shields.io/badge/Status-Em progresso-DBD375?style=for-the-badge&logo=appveyor' alt='Badge. Retângulo dividido em duas partes: no lado esquerdo, o retângulo possui a cor cinza, um círculo azul com vazados e o texto "STATUS"; no lado direito, o retângulo é amarelo e contém o texto "Em progresso".'>
-</p>
+### Sumário 
 
-### Tópicos 
-
-:small_blue_diamond: [Sobre a imersão](#sobre-a-imersão)
+:small_blue_diamond: [Descrição](#descrição)
 
 :small_blue_diamond: [Conhecimentos adquiridos](#conhecimentos-adquiridos)
 
-:small_blue_diamond: [Projetos desenvolvidos](#projetos-desenvolvidos)
+:small_blue_diamond: [Desafios](#desafios)
 
-:small_blue_diamond: [Como executar](#como-executar)
+:small_blue_diamond: [Materiais complementares](#materiais-complementares)
 
 :small_blue_diamond: [Tecnologias](#tecnologias)
 
 ---
-## Sobre a imersão 
+### Descrição
 
 
-## Conhecimentos adquiridos
+<img src='' alt='Início da transcrição. Recorte de captura de tela de um projeto do CodePen. Tela com plano de fundo azul escuro. Na parte superior e central, há um título em negrito e com coloração branca com o texto "AluraFlix". Abaixo desse título, há o um subtítulo com o texto "imersão dev", em que a palavra "dev" possui um fundo vermelho e é precedido pelo símbolo de underline. Na parcela superior direita, há o texto "alura". '>
+
+### Conhecimentos adquiridos
 
 
-## Projetos desenvolvidos
+### Desafios
 
 
-## Como executar
+### Materiais complementares
 
-1. Clonar o repositório:
-```
-git clone https://github.com/strawndri/imersao-dev-6.git
-```
-
-2. Localizar e acessar a pasta "imersao-dev-6";
-```
-cd imersao-dev-6
-```
-
-## Tecnologias
-- **Ferramentas**:
-  - 👩‍💻 [Codepen](https://codepen.io/).
-- **Linguagens**
-  - 🏗️ [HTML](https://www.w3schools.com/html/default.asp);
-  - 💅 [CSS](https://www.w3schools.com/css/default.asp);
-  - ⚙️ [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
-
-## Feito com carinho por:
-
-| [<img src="https://avatars.githubusercontent.com/u/62841828?v=4" width=115><br><sub>Andrieli Luci Gonçalves</sub>](https://github.com/strawndri) |
-| :---: |
