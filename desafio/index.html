@@ -4,8 +4,47 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AluraFlix - Imersão Dev 6</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
+    <div class="container">
+        <h1 class="page-title">
+            Livraria Alura
+        </h1>
+        <img src="https://i.imgur.com/d43bfkI.png" class="page-logo" alt="">
+    </div>
+    <a href="https://alura.com.br/" target="_blank">
+        <img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="" class="alura-logo">
+    </a>
+    <div class="box">
+        <fieldset>
+            <label>
+                Nome da obra:
+                <input type="text" id="bookTitle" name="bookTitle" required>
+            </label>
+            <label>
+                Capa do livro:
+                <input type="text" id="bookCover" name="bookCover" required>
+            </label>
+            <label>
+                Link de compra:
+                <input type="text" id="bookLink" name="bookLink" required>
+            </label>
+        </fieldset>
+        <button onclick="addNewBook()">Novo livro</button>
+    </div>
+    <div class="books">
+        
+    </div>
+    <div class="box remove-books">
+        <fieldset>
+            <label>
+                Nome do livro:
+                <input type="text" id="bookToRemove" name="bookToRemove">
+            </label>
+        </fieldset>
+        <button onclick="removeBook()">Remover</button>
+    </div>
+    <script scr="scripts.js"></script>
 </body>
 </html>
