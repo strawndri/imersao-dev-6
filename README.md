@@ -16,7 +16,7 @@
 
 ---
 ### Descrição
-Na primeira aula, iniciamos os estudos de programação conhecendo um pouco mais sobre esse universo, bem como sobre HTML, CSS e Javascript.
+Na quinta aula, criamos um programa capaz de classificar jogadores, atualizando, em uma tabela, a quantidade de vitórias, empates e derrotas. Para isso, foram utilizadas classes, funções, listas e integrações entre HTML e Javascript.
 
 <img src='https://i.imgur.com/4kzS51b.png' alt='Início da transcrição. Recorte de captura de tela de um projeto do CodePen. Tela com plano de fundo azul escuro. Na parte superior e central, há um título em negrito e com coloração branca com o texto "Classificação Alura".'>
 
@@ -28,10 +28,10 @@ Na primeira aula, iniciamos os estudos de programação conhecendo um pouco mais
 - Como somar valores a uma variável com `++`.
 
 ### Desafios
-- [1º Desafio](): Fazer a lógica de quando houver um empate, obrigatoriamente deveria já ajustar como empate para os demais jogadores;
-- [2º Desafio](): Validar se todos os pontos estão fazendo sentido, tanto o número de empates, derrotas e vitórias com os demais jogadores (impossível haver mais vitórias que derrotas, por exemplo);
-- [3º Desafio](): Adicionar a imagem de cada jogador;
-- [4º Desafio](): Criar um botão para zerar todos os pontos;
-- [5º Desafio](): Criar um botão e inputs (campos de texto) para adicionar novos jogadores, com seus respectivos dados;
-- [6º Desafio](): Utilizar seu jogo preferido para se basear na pontuação da sua tabela de classificação.
+- ⚖️ [1º Desafio](https://codepen.io/strawndri/pen/yLqZgGW): Fazer a lógica de quando houver um empate, obrigatoriamente deveria já ajustar como empate para os demais jogadores;
+- ✅ [2º Desafio](https://codepen.io/strawndri/pen/yLqZgGW): Validar se todos os pontos estão fazendo sentido, tanto o número de empates, derrotas e vitórias com os demais jogadores (impossível haver mais vitórias que derrotas, por exemplo);
+- 🖼️ [3º Desafio](https://codepen.io/strawndri/pen/yLqZgGW): Adicionar a imagem de cada jogador;
+- 0️⃣ [4º Desafio](https://codepen.io/strawndri/pen/yLqZgGW): Criar um botão para zerar todos os pontos;
+- 🆕 [5º Desafio](https://codepen.io/strawndri/pen/yLqZgGW): Criar um botão e inputs (campos de texto) para adicionar novos jogadores, com seus respectivos dados;
+- 🐻 [6º Desafio](https://codepen.io/strawndri/pen/yLqZgGW): Utilizar seu jogo preferido para se basear na pontuação da sua tabela de classificação.
 
