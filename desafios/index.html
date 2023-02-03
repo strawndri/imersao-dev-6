@@ -1,0 +1,48 @@
+<html>
+
+<head>
+  <title>
+    Imersão Dev
+  </title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<h1 class="page-title">Classificação Alura</h1>
+
+  <div class="box">
+    <h2 class="page-subtitle">Novo(a) Jogador(a)</h2>
+    <fieldset>
+      <label>
+        Nome:
+        <input type="text" id="name" name="name">
+      </label>
+      <label>
+        Imagem:
+        <input type="text" id="image" name="image">
+      </label>
+    </fieldset>
+    <div class="box__buttons">
+      <button onclick="addPlayer()">Adicionar</button>
+      <button onclick="reset()">Zerar pontos</button>
+    </div>
+  </div>
+
+  <table style="width:100%">
+    <thead>
+      <tr>
+        <th>Nome</th>
+        <th>Avatar</th>
+        <th>Vitórias</th>
+        <th>Empates</th>
+        <th>Derrotas</th>
+        <th>Pontos</th>
+        <th colspan="3">Ações</th>
+      </tr>
+    </thead>
+    <tbody id="tabelaJogadores">
+    </tbody>
+  </table>
+</body>
+
+</html>
