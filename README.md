@@ -33,6 +33,7 @@
 - [Aula 02: Mentalista](https://github.com/strawndri/imersao-dev-6/tree/aula-2)
 - [Aula 03: AluraFlix e filmes array](https://github.com/strawndri/imersao-dev-6/tree/aula-3)
 - [Aula 04: AluraFlix e filmes preferidos](https://github.com/strawndri/imersao-dev-6/tree/aula-4)
+- [Aula 05: Tabela de pontos](https://github.com/strawndri/imersao-dev-6/tree/aula-5)
 
 ## Como executar
 
