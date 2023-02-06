@@ -25,7 +25,8 @@ Na quinta aula, criamos um programa capaz de classificar jogadores, atualizando,
 - O que são e como criar classes;
 - Utilização de funções para integrar o Javascript com o HTML;
 - Como utilizar o método de atribuição com incremento com `+=`;
-- Como somar valores a uma variável com `++`.
+- Como somar valores a uma variável com `++`;
+- Como usar template literals (template string).
 
 ### Desafios
 - ⚖️ [1º Desafio](https://codepen.io/strawndri/pen/yLqZgGW): Fazer a lógica de quando houver um empate, obrigatoriamente deveria já ajustar como empate para os demais jogadores;
